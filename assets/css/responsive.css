@@ -1,0 +1,127 @@
+@media only screen and (max-width: 600px)  {
+    .hero-header .service .service-item .service-box {
+        padding: 10px !important;
+    }
+
+    .bg-blue {
+        font-size: 7px;
+    }
+
+    .hero-header .service .service-item .title {
+        font-size: 10px;
+    }
+
+    .hero-header .service .service-item p {
+        font-size: 9px;
+    }
+
+    .hero-header .service .service-item a {
+        padding-left: 8px !important;
+        padding-right: 8px !important;
+        font-size: 8px;
+    }
+
+
+    .our-services .service-box a {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .clients .swiper-button-prev {
+        display: none;
+    }
+    
+    .clients .swiper-button-next {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .hero-header .row .col-lg-5 {
+        text-align: -moz-center;
+        text-align: -webkit-center;
+
+    }
+
+    .hero-header .btn.btn-light {
+        margin-top: 5vh;
+    }
+
+    .hero-header .img {
+        margin-top: 2rem;
+    }
+    
+
+    .hero-header .service .service-item a {
+        display: block;
+    }
+    
+
+    /* .hero-header .service .service-item {
+        width: 33%;
+        margin-top: 10px;
+    } */
+
+    .hero-header {
+        padding: 6rem 0 3rem 0;
+    }
+
+
+    .about .bg {
+        display: none;
+    }
+
+    .visi-misi h2 {
+        text-align: center;
+    }
+
+
+    .why-us .content { 
+        margin-top: 3rem;
+    }
+
+
+    .clients .pe {
+        padding-right: 0;
+    }
+
+    .footer .container {
+        padding-top: 0vh;
+    }
+
+} 
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .bg-blue {
+        font-size: 7px;
+    }
+
+    .hero-header .service .service-item .title {
+        font-size: 10px;
+    }
+
+    .hero-header .service .service-item p {
+        font-size: 9px;
+    }
+}
+
+@media only screen and (max-width: 992px)  {
+    .why-us .content {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .navbar-light .navbar-nav .nav-link {
+        padding: 25px 9px;
+    }
+    
+    .contact p {
+        font-size: 12px;
+    }
+
+    .contact a {
+        font-size: 12px;
+    }
+}
